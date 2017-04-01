@@ -1,0 +1,34 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "ca.edumedia.saik0116.myRemindrApp"
+        },
+        "de.appplant.cordova.plugin.local-notification": {
+            "PACKAGE_NAME": "ca.edumedia.saik0116.myRemindrApp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ca.edumedia.saik0116.myRemindrApp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "ca.edumedia.saik0116.myRemindrApp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "ca.edumedia.saik0116.myRemindrApp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ca.edumedia.saik0116.myRemindrApp"
+        },
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "ca.edumedia.saik0116.myRemindrApp"
+        }
+    }
+}
